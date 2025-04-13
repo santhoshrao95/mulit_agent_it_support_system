@@ -17,5 +17,5 @@ The system consists of four primary agents:
 - Automated escalation for recurring issues
 
 ## System Flow
-![Multi-Agent IT Support System Flow](/docs/system-flow.png)
+[![Multi-Agent IT Support System Flow]](https://drive.google.com/file/d/1n0od_Z1VEQcapQu1rk2tg0uKeZLNGMTb/view?usp=drive_link)
 
