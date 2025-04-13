@@ -18,3 +18,9 @@ The system consists of four primary agents:
 
 ## System Flow
 ![Multiagent it support system](https://github.com/user-attachments/assets/a2898146-5fc7-4572-a665-54d202951115)
+
+## How to run
+
+1. conda create -n <env_name> python=3.12
+2. pip install -r requirements.txt
+3. python <file_name.py>
