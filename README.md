@@ -24,3 +24,24 @@ The system consists of four primary agents:
 1. conda create -n <env_name> python=3.12
 2. pip install -r requirements.txt
 3. python <file_name.py>
+
+Step-by-Step Installation
+
+Create a new Conda environment
+
+bashconda create -n it-support-agents python=3.12
+
+Activate the environment
+
+bashconda activate it-support-agents
+
+Clone the repository
+
+bashgit clone https://github.com/yourusername/multi-agent-it-support.git
+cd multi-agent-it-support
+
+Install dependencies
+
+bashpip install -r requirements.txt
+Running the Application
+bashpython main.py
