@@ -30,14 +30,10 @@ knowledge_base = {
     }
 }
 
-# Enhanced memory database to track issue occurrences and provide issue statistics
 class MemoryDB:
     def __init__(self):
-        # Store user requests
         self.requests = []
-        # Track issues by type for recurrence detection
         self.issue_occurrences = {}
-        # Track issue frequency (number of times each issue has been reported)
         self.issue_frequency = {}
     
     def add_request(self, user_id, issue_type, description):
